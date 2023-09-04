@@ -1,2 +1,4 @@
-# BigDataPractice_dy
-빅데이터 실습 dy
+# Big Data Practice
+#### at Dongyang
+#### 빅데이터 실습 
+
